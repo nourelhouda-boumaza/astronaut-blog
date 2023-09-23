@@ -3,7 +3,7 @@
 
 body {
   margin: 0%;
-  background-image: url('img/background.jpg');
+  background-image: url('images/background.jpg');
   background-repeat: repeat;
   background-size: cover;
   min-height: 100vh;
@@ -134,7 +134,7 @@ h5{
 }
 
 .earth{
-  background-image: url('img/earth.avif');
+  background-image: url('images/earth.avif');
   background-repeat: repeat;
   background-size: cover;
   
